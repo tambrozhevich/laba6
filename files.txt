@@ -1,0 +1,3 @@
+cat\cat.txt
+path\path\file.txt
+writer\esenin\poem\love\line_0
